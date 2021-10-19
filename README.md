@@ -1,6 +1,6 @@
-**MAZE GAME**
+**MAZE GAME ON UCFK4 MICRO-CONTROLLER**
 
-A maze game run on UCFK4 micro-controller.
+A maze game run on the UCFK4 micro-controller.
 - Author: Kvie Nguyen (kvn17), Zoe Sharp (zsh44)
 - Date: 5th October, 2021
 
@@ -11,11 +11,15 @@ A maze game run on UCFK4 micro-controller.
 
 **RUN THE GAME**
 
-1. In terminal, navigate to folder "group_105" by:
+1. In terminal, clone this repository by:
 
-    $ cd ence260-ucfk4/assignment/group_105
+    $ git clone https://github.com/kvieeee/UCFK4-board-game.git
+    
+3. In terminal, navigate to folder "UCFK4-board-game" by:
 
-2. Run the game by typing "make program" in the command:
+    $ cd UCFK4-board-game
+
+3. Run the game by typing "make program" in the command:
 
     $ make program
 
